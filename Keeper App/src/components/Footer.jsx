@@ -4,7 +4,7 @@ function Footer() {
   const tarih = new Date().getFullYear();
   return (
     <footer>
-      <p>Copy © {tarih} </p>
+      <p>Copyy © {tarih} </p>
     </footer>
   );
 }
